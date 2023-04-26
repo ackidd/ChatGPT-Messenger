@@ -21,4 +21,3 @@ const query = async (prompt: string, chatId: string, model: string) => {
 };
 
 export default query;
- 
