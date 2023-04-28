@@ -1,0 +1,25 @@
+[debug] [2023-04-28T03:32:36.302Z] ----------------------------------------------------------------------
+[debug] [2023-04-28T03:32:36.304Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2023-04-28T03:32:36.305Z] CLI Version:   11.29.1
+[debug] [2023-04-28T03:32:36.305Z] Platform:      darwin
+[debug] [2023-04-28T03:32:36.305Z] Node Version:  v16.17.1
+[debug] [2023-04-28T03:32:36.313Z] Time:          Thu Apr 27 2023 23:32:36 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-04-28T03:32:36.313Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-28T03:32:36.391Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-28T03:32:36.392Z] > authorizing via signed-in user (ackidd89@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/andrewkidd/Documents/Builds/chatgpt-messenger
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
